@@ -1,9 +1,9 @@
 ### Hi there, I'm Muhammad Ilham 👋
 
 ## I'm a Back End Developer and a Cat Person!
-- 🔭 I’m currently working as a Back End Developer at [KlikACC][klikacc]!
+- 💻 I’m currently working as a Back End Developer at [KlikACC][klikacc]!
 - 🌱 I’m currently learning Java for OOP and Go for RESTful API
-- ⚡ Fun fact: I'm a CS:GO player and I play drums!
+- 🌈 Fun fact: I'm a CS:GO player and I play drums!
 
 ### Connect with me:
 

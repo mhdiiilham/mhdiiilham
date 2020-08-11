@@ -2,7 +2,7 @@
 
 ## I'm a Back End Developer and a Cat Person!
 - 💻 I’m currently working as a Back End Developer at [KlikACC][klikacc]!
-- 🌱 I’m currently learning Java for OOP and Go for RESTful API
+- 🌱 I'm currently deep dive into Object-Oriented Programming with Java
 - 🌈 Fun fact: I'm a CS:GO player and I play drums!
 
 ### Connect with me:

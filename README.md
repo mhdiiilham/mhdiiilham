@@ -2,8 +2,8 @@
 
 ## I'm a Back End Developer and a Cat Person!
 - 💻 I’m currently working as a Back End Developer at [KlikACC][klikacc]!
-- 🌱 I'm currently deep dive into Object-Oriented Programming with Java
-- 🌈 Fun fact: I'm a CS:GO player and I play drums!
+- 🌱 I'm currently working on a project called "Spotifamily"
+- 🌈 Fun fact: I'm a CS:GO player!
 
 ### Connect with me:
 

@@ -1,13 +1,9 @@
 ### Hi there, I'm Muhammad Ilham 👋
-I am a 20 Years old Back End Developer who enjoy writing code in Go (Disclaimer: I'm not an expert). <br />
-I have interest in Server Programming, Clean Code, and Linux Scripting. <br />
-Here you can find all of my unfinished project cuz I never really code the Front End, althought I could code in React and Vue. <br />
-Currently, I'm working on a personal project called "SpotifamILY" it's a platform to share your family subscription plans (Spotify, Youtube, and Netflix). <br />
-I'd be happy if someone help me doing the Front End things.
+I am a passionate backend engineer with a demonstrated history of working in the information technology industry. Skilled in Node.JS, SQL and NoSQL, Laravel, and Go. I have experience on Vuejs, React and React Native, Docker, building REST and gRPC Service, and NGINX. 
 
-## I'm a Back End Developer and a Cat Person!
-- 🌱 I'm currently learning GO gRPC
-- 🌈 Fun fact: I'm a CS:GO player!
+## I'm a Back End Developer and love cats!
+- 🌱 I'm currently learning and Exploring anythings in Go.
+- 🌈 Fun fact: Playing Valorant by the weekend!
 
 ### Connect with me:
 

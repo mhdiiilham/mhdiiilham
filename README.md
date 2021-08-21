@@ -3,7 +3,7 @@ I am a passionate backend engineer with a demonstrated history of working in the
 
 ## I'm a Back End Developer and love cats!
 - 🌱 I'm currently learning and Exploring anythings in Go.
-- 🌈 Fun fact: Playing Valorant by the weekend!
+- 🌈 I'm not a gamer, I'm a CSGO Player
 
 ### Connect with me:
 

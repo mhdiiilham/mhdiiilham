@@ -1,5 +1,5 @@
 ### Hi there, I'm Muhammad Ilham 👋
-I am a passionate backend engineer with a demonstrated history of working in the information technology industry. Skilled in Node.JS, SQL and NoSQL, Laravel, and Go. I have experience on Vuejs, React and React Native, Docker, building REST and gRPC Service, and NGINX. 
+I am a passionate backend engineer with a demonstrated history of working in the information technology industry. Skilled in Go, Node.JS, Laravel, and a bit of SQL. I also have experience building RESTful and gRPC API, building web frontend using Vuejs and React, deploying API Services with Docker and NGINX.
 
 ## I'm a Back End Developer and love cats!
 - 🌱 I'm currently learning and Exploring anythings in Go.

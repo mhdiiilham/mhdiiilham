@@ -22,23 +22,21 @@ I am a software engineer specializing in backend with a demonstrated history of 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Go" width="100px" src="https://www.kindpng.com/picc/m/599-5995612_golang-logo-hd-png-download.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][webdevplaylist]
-[<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][webdevplaylist]
-[<img align="left" alt="NGINX" width="100px" src="https://paranoiaque.fr/wp-content/uploads/2020/09/NGINX-logo.jpg" />][webdevplaylist]
+[<img align="left" alt="Go" width="100px" src="https://www.kindpng.com/picc/m/599-5995612_golang-logo-hd-png-download.png" />][gorepo]
+[<img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][jsrepo]
+[<img align="left" alt="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][phprepo]
+[<img align="left" alt="Docker" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" alt="NGINX" width="100px" src="https://paranoiaque.fr/wp-content/uploads/2020/09/NGINX-logo.jpg" />][nginx]
 
 <br />
 <br />
 
-[website]: https://muhammadilham.com
+[website]: https://muhammadilham.netlify.app/
 [twitter]: https://twitter.com/w8rloO
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/piigyy
 [linkedin]: https://www.linkedin.com/in/muhammad-ilham-491a99194/
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
-[klikacc]: https://klikacc.co.id
-[SpotifamILY]: https://github.com/Spotifamily
+[gorepo]: https://github.com/mhdiiilham?tab=repositories&q=&type=&language=go&sort=
+[jsrepo]: https://github.com/mhdiiilham?tab=repositories&q=&type=&language=javascript&sort=
+[phprepo]: https://github.com/mhdiiilham?tab=repositories&q=&type=&language=php&sort=
+[docker]: https://github.com/mhdiiilham?tab=repositories&q=docker&type=&language=&sort=
+[nginx]: https://www.nginx.com/

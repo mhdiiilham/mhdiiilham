@@ -4,7 +4,7 @@ I am a software engineer specializing in backend with a demonstrated history of 
 ---
 
 ## I'm a Back End Developer and love cats!
-- 🌱 I'm currently learning and Exploring anythings in Go.
+- 🌱 I'm currently learning and Exploring anythings with Go.
 - 🌈 I'm not a gamer, I'm a CSGO Player
 
 ---
@@ -31,7 +31,7 @@ I am a software engineer specializing in backend with a demonstrated history of 
 <br />
 <br />
 
-[website]: https://muhammadilham.netlify.app/
+[website]: https://muhammadilham.xyz
 [twitter]: https://twitter.com/w8rloO
 [instagram]: https://instagram.com/piigyy
 [linkedin]: https://www.linkedin.com/in/muhammad-ilham-491a99194/

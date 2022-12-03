@@ -1,11 +1,9 @@
 ### Hi there, I'm Muhammad Ilham 👋
-I am a software engineer specializing in backend with a demonstrated history of working in the information technology industry. Skilled in Go, Node.JS, Laravel, and a bit of SQL. I also have experience building RESTful and gRPC API, building web frontend using Vuejs and React, deploying API Services with Docker and NGINX.
+I am a software engineer specializing in back-end with a demonstrated history of working in the technology industry. Mainly write code using Go, but also have experience using Laravel and NodeJS. I love to write clean, testable, and maintainable codes, and also love to experiment with utilizing Go's concurrency feature to improve and optimize the applications.
 
 ---
 
 ## I'm a Back End Developer and love cats!
-- 🌱 I'm currently learning and Exploring anythings with Go.
-- 🌈 I'm not a gamer, I'm a CSGO Player
 
 ---
 

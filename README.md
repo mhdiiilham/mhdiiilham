@@ -1,5 +1,5 @@
 ### Hi there, I'm Muhammad Ilham 👋
-I am a software engineer specializing in back-end with a demonstrated history of working in the technology industry. Mainly write code using Go, but also have experience using Laravel and NodeJS. I love to write clean, testable, and maintainable codes, and also love to experiment with utilizing Go's concurrency feature to improve and optimize the applications.
+Experienced backend engineer with a passion for programming and a strong track record in the technology industry. Fluent in Go, with experience using PHP, Laravel, and NodeJS to develop scalable, secure backend systems. Skilled in working with Docker, Google Cloud Platform, and AWS, and experienced in implementing continuous integration and deployment strategies using Bitbucket CI/CD and Github Actions. Strong logic skills, a love for exploring new technologies, and a commitment to writing high-quality code with comprehensive unit testing and a TDD approach.
 
 ---
 

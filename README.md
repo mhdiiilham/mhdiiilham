@@ -1,5 +1,9 @@
 ### Hi there, I'm Muhammad Ilham 👋
-Experienced backend engineer with a passion for programming and a strong track record in the technology industry. Fluent in Go, with experience using PHP, Laravel, and NodeJS to develop scalable, secure backend systems. Skilled in working with Docker, Google Cloud Platform, and AWS, and experienced in implementing continuous integration and deployment strategies using Bitbucket CI/CD and Github Actions. Strong logic skills, a love for exploring new technologies, and a commitment to writing high-quality code with comprehensive unit testing and a TDD approach.
+Dynamic backend engineer with a passion for crafting scalable, secure systems and a proven track record in the tech
+industry. Fluent in Go and adept in PHP, Laravel, and NodeJS, I specialize in building robust backend solutions.
+Proficient with Docker, Google Cloud Platform, and AWS, I excel at implementing seamless CI/CD pipelines using
+Bitbucket CI/CD and GitHub Actions. With strong logical thinking, a curiosity for emerging technologies, and a
+commitment to high-quality, test-driven code, I thrive on delivering innovative solutions that drive success.
 
 ---
 
